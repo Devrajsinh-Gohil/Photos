@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 149.99999 150"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.96287805"
-     inkscape:cx="344.28036"
-     inkscape:cy="508.89103"
+     inkscape:zoom="0.56516475"
+     inkscape:cx="-69.891124"
+     inkscape:cy="356.5332"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="811"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -153,10 +153,10 @@
        overflow_perspective="false" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="51.593749 : 108.01875 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="261.59375 : 108.01875 : 1"
-       inkscape:persp3d-origin="156.59375 : 58.518749 : 1"
+       inkscape:vp_x="51.593745 : -38.98125 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="261.59373 : -38.98125 : 1"
+       inkscape:persp3d-origin="156.59373 : -88.481249 : 1"
        id="perspective630" />
     <inkscape:path-effect
        effect="envelope"
@@ -183,16 +183,17 @@
        id="rect520" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-273.51572 : 286.24067 : 1"
+       inkscape:vp_x="-273.5157 : 139.24066 : 1"
        inkscape:vp_y="0 : 2722.4185 : 0"
-       inkscape:vp_z="410.72052 : 286.24067 : 1"
-       inkscape:persp3d-origin="68.602382 : 151.48097 : 1"
+       inkscape:vp_z="410.72049 : 139.24066 : 1"
+       inkscape:persp3d-origin="68.602379 : 4.4809702 : 1"
        id="perspective286" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-31.834375,-69.286581)">
     <path
        style="opacity:1;fill:#ff8d2f;fill-opacity:1;stroke:none;stroke-width:0.814139"
        d="M 401.37047,603.71899 V 399.81221 l 10.38027,-3.24417 c 8.6488,-2.70303 262.23728,-80.68831 266.63048,-81.99605 1.32636,-0.39482 1.42474,0.80394 1.42474,17.35992 l 0.81414,29.18197 -107.8734,39.05597 -101.36029,35.7994 -0.81414,40.18451 c -0.85576,42.23862 0.20968,53.12515 1.01768,52.79545 0.55972,-0.2284 45.71389,-20.45542 100.34261,-44.94893 54.62872,-24.49352 101.25531,-45.39461 103.61465,-46.44687 l 4.2897,-1.91319 -0.219,17.87063 -0.21902,38.22411 -93.62596,47.0476 -114.79359,56.00313 -0.20796,50.65152 c -0.16218,39.50036 -0.006,49.83739 0.24018,49.83739 0.24648,0 44.74029,-23.42685 101.86032,-59.02507 57.12003,-35.59822 106.44037,-64.72404 106.61555,-64.72404 0.1752,0 0.31853,24.17394 0.31853,33.81868 v 17.53591 l -138.86044,92.37284 c -76.37325,50.80507 -139.02124,92.37285 -139.21775,92.37285 -0.19652,0 -0.3573,-91.75805 -0.3573,-203.90678 z"
